@@ -1,10 +1,11 @@
-                                                      🌐 PRODIGY WEB DEVELOPMENT INTERNSHIP
+🌐 **PRODIGY WEB DEVELOPMENT INTERNSHIP**
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 Welcome to my official repository for the **Prodigy Web Development Internship**!  
 Here, you'll find all the tasks I've completed during the internship, highlighting core web technologies like **HTML**, **CSS**, **JavaScript**, and **TypeScript**.
 
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 ABOUT PRODIGY:
 
 Prodigy is a vibrant and inclusive community of passionate learners and leaders. It fosters growth through:
@@ -30,6 +31,7 @@ ________________________________________________________________________________
 
 ✅ Task 1: Landing Page
 A responsive landing page built using HTML and CSS, focused on layout, sectioning, and visual creativity.
+
 Skills Used: HTML, CSS
 🔗 Live Demo | Source Code
 
@@ -37,6 +39,7 @@ ________________________________________________________________________________
 
 ✅ Task 2: Stopwatch
 A fully functional stopwatch application that includes start, stop, reset, and lap functionality using JavaScript.
+
 Skills Used: HTML, CSS, JavaScript
 🔗 Live Demo | Source Code
 
@@ -44,6 +47,7 @@ ________________________________________________________________________________
 
 ✅ Task 3: Tic Tac Toe
 An interactive Tic Tac Toe game with basic AI or multiplayer mode, built using JavaScript and styled with CSS.
+
 Skills Used: HTML, CSS, JavaScript
 🔗 Live Demo | Source Code
 
@@ -51,13 +55,15 @@ ________________________________________________________________________________
 
 ✅ Task 4: Portfolio Website
 A personal portfolio built using React + TypeScript, styled with CSS, and structured using standard HTML elements inside .tsx components.
-Tech Stack: React, TypeScript, CSS, HTML
+
+Skills Used: HTML, CSS, 
 🔗 Live Demo | Source Code
 
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ✅ Task 5: Weather App
 A responsive weather application that fetches real-time weather data using APIs and displays temperature, condition, and icons.
+
 Skills Used: HTML, CSS, JavaScript, API Integration
 🔗 Live Demo | Source Code
 
