@@ -34,16 +34,12 @@ A responsive landing page built using HTML and CSS, focused on layout, sectionin
 
 Skills Used: HTML, CSS
 
-🔗 Live Demo | Source Code
-
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ✅ Task 2: Stopwatch
 A fully functional stopwatch application that includes start, stop, reset, and lap functionality using JavaScript.
 
 Skills Used: HTML, CSS, JavaScript
-
-🔗 Live Demo | Source Code
 
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
@@ -52,8 +48,6 @@ An interactive Tic Tac Toe game with basic AI or multiplayer mode, built using J
 
 Skills Used: HTML, CSS, JavaScript
 
-🔗 Live Demo | Source Code
-
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ✅ Task 4: Portfolio Website
@@ -61,16 +55,12 @@ A personal portfolio built using React + TypeScript, styled with CSS, and struct
 
 Skills Used: HTML, CSS, 
 
-🔗 Live Demo | Source Code
-
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ✅ Task 5: Weather App
 A responsive weather application that fetches real-time weather data using APIs and displays temperature, condition, and icons.
 
 Skills Used: HTML, CSS, JavaScript, API Integration
-
-🔗 Live Demo | Source Code
 
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
